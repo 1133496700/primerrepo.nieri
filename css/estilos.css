@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(184, 36, 149);
+}
+header{
+    height: 100px;
+    width: 99%;
+    background-color: blueviolet;
+    margin: 5px;
+    padding: 8px;
+    border: 3px solid black;
+
+    position: relative;
+}
+main{
+    height: 650px;
+    width: 99%;
+    margin:1%;
+
+    position: relative;
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+
+    padding: 10px;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    border: 1px solid black;
+    margin: 4px;
+    padding: 5px;
+}
+img{
+    display: inline-block;
+    
+    position: relative;
+}
+footer{
+    width: 99%;
+    height: 100px;
+
+    background-color: blueviolet;
+
+    margin: 5px;
+
+    padding: 8px;
+    border: 3px solid black;
+
+    position: relative;
+}
+
+#header{
+}
+#nav{
+    position: absolute;
+    right: 30px;
+    bottom:15px;;
+
+    
+    
+}
+#footeruno{
+    display: inline-block;
+    position:absolute;
+    left: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 23px;
+
+}
+#footerdos{
+    display: inline-block;
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+}
+
+
+
+
+
+
+#mainuno{
+    width: 40%;
+    font-size: 27px;
+    font-family: 'Noto Sans Ethiopic', sans-serif;
+    position:absolute;
+    left: 400px;
+    top: 50px;
+    padding: 
+    
+}
+
+
+
+
+
+
+
+
+#mainpsy{
+    height: px;
+    width: 30%;
+    font-family: 'Noto Sans Ethiopic', sans-serif;
+
+    display: inline-block;
+
+    padding: 10px;
+    margin: 10px;
+
+    position:absolute;
+    top: 20px;
+    left: 20px;
+
+}
+#mainpsydos{
+    height: px;
+    width: 40%;
+    font-family: 'Noto Sans Ethiopic', sans-serif;
+
+    display: inline-block;
+
+    padding: 10px;
+    margin: 10px;
+
+    position: absolute;
+    right: 50px;
+    top: 20px;
+}
+
+
+#musicauno{
+    width: 25%;
+    
+    display: inline-block;
+
+    margin:20px;
+    
+}
+#h1{
+    font-family: 'Noto Sans Ethiopic', sans-serif;
+    
+}
+
+
+
+
+
+
+#formulario{
+    font-family: 'Noto Sans Ethiopic', sans-serif;
+
+    width: 60%;
+    height: 450px;
+
+    margin: 20px;
+
+    padding: 20px;
+    position:absolute;
+    left: 310px;
+    border: 2px solid black;
+}
+
+
+#galeria{
+    display: flex;
+
+    margin: 25px;
+
+}
